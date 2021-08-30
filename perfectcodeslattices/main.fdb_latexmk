@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1630357331 "c:/Users/gonca/Dropbox/IC-Lucas-2018/codesresearch/perfectcodeslattices/main.tex" "main.pdf" "main" 1630357333
+["pdflatex"] 1630359039 "c:/Users/gonca/Dropbox/IC-Lucas-2018/codesresearch/perfectcodeslattices/main.tex" "main.pdf" "main" 1630359040
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -32,6 +32,7 @@
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Program Files/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/babel.def" 1626972176 123985 95be6f36f6c54070fdcb3cb50663eed2 ""
@@ -267,15 +268,16 @@
   "C:/Users/gonca/AppData/Roaming/MiKTeX/tex/latex/tkz-euclide/tkz-tools-angles.tex" 1584562084 3116 500d39ad01f08376c2905489b5f16335 ""
   "C:/Users/gonca/AppData/Roaming/MiKTeX/tex/latex/tkz-euclide/tkz-tools-intersections.tex" 1584721152 14814 32d64134e09e5d1175ae613062c2ba3f ""
   "C:/Users/gonca/AppData/Roaming/MiKTeX/tex/latex/tkz-euclide/tkz-tools-math.tex" 1584721163 4817 84a0f6fbe1ac6d5e2ad64f3bf2c7dcd1 ""
-  "c:/Users/gonca/Dropbox/IC-Lucas-2018/codesresearch/perfectcodeslattices/main.tex" 1630357331 3417 ac10382d23642dd66e37263f1168814b ""
+  "c:/Users/gonca/Dropbox/IC-Lucas-2018/codesresearch/perfectcodeslattices/main.tex" 1630359038 4171 ed487e4a3c0948506546751c2d5a22d7 ""
   "exampler2l1.pdf" 1630355606 36953 f3fa2b4e9bdd9e3448692858ec142a39 ""
   "exampler2l2.pdf" 1630356508 40012 e39e53b57bd5085536c5df2094553da4 ""
   "exampler4l1.pdf" 1630357101 35213 9941c0733205628c7bdd799f81e21a21 ""
-  "main.aux" 1630357333 1554 2c72b95a7e30ea0b57bd7e499a2dcad0 "pdflatex"
-  "main.out" 1630357333 93 3e846ab0fcb3282aa41f0877e980e725 "pdflatex"
-  "main.tex" 1630357331 3417 ac10382d23642dd66e37263f1168814b ""
+  "exampler4l2.pdf" 1630357119 36247 10d9f08aeae8a45e532be6cacb346597 ""
+  "main.aux" 1630359040 1583 b1bb1dc5ea9a03a703d46ed759172645 "pdflatex"
+  "main.out" 1630359040 93 3e846ab0fcb3282aa41f0877e980e725 "pdflatex"
+  "main.tex" 1630359038 4171 ed487e4a3c0948506546751c2d5a22d7 ""
   (generated)
-  "main.aux"
-  "main.pdf"
-  "main.out"
   "main.log"
+  "main.pdf"
+  "main.aux"
+  "main.out"

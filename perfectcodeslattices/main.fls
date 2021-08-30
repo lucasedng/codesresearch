@@ -1390,6 +1390,12 @@ INPUT exampler4l1.pdf
 INPUT .\exampler4l1.pdf
 INPUT .\exampler4l1.pdf
 INPUT .\exampler4l1.pdf
+INPUT .\exampler4l2.pdf
+INPUT .\exampler4l2.pdf
+INPUT exampler4l2.pdf
+INPUT .\exampler4l2.pdf
+INPUT .\exampler4l2.pdf
+INPUT .\exampler4l2.pdf
 INPUT C:\Users\gonca\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT main.aux
 INPUT .\main.out
@@ -1414,3 +1420,5 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
