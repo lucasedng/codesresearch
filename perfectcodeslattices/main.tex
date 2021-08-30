@@ -1,8 +1,9 @@
 \documentclass{article}
-\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[dvipsnames,table,xcdraw]{xcolor}
 \usepackage{amsthm,amssymb,mathtools}
 \usepackage{ragged2e}
-\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=2.5cm]{geometry}
+\usepackage[a4paper,top=1.5cm,bottom=2cm,left=2cm,right=2cm]{geometry}
 \usepackage{setspace} \onehalfspacing
 \usepackage{lastpage}
 \usepackage{amsmath,amsthm,amssymb}
@@ -30,19 +31,19 @@
 %Definições dos ambientes do tipo teorema
 \theoremstyle{plain}
 \newtheorem{theorem}{Teorema}
-\newtheorem{proposition}[theorem]{Proposi\c{c}\~ao}
-\newtheorem{corollary}[theorem]{Corol\'ario}
-\newtheorem{lemma}[theorem]{Lema}
-\newtheorem{observation}[theorem]{Observa\c{c}\~ao}
+\newtheorem{proposition}{Proposi\c{c}\~ao}
+\newtheorem{corollary}{Corol\'ario}
+\newtheorem{lemma}{Lema}
+\newtheorem{observation}{Observa\c{c}\~ao}
 
 %Definição dos ambientes do tipo definição
 \theoremstyle{definition}
-\newtheorem{definition}[theorem]{Defini\c{c}\~ao}
-\newtheorem{example}[theorem]{Exemplo}
+\newtheorem{definition}{Defini\c{c}\~ao}
+\newtheorem{example}{Exemplo}
 
 %Definição dos ambientes tipo observação
 \theoremstyle{remark}
-\newtheorem{remark}[theorem]{Observa\c{c}\~ao}
+\newtheorem{remark}{Observa\c{c}\~ao}
 \DeclareMathOperator{\rank}{rank}
 \DeclareMathOperator{\vol}{vol}
 \DeclareMathOperator{\ind}{ind}
@@ -51,6 +52,7 @@
 \DeclareMathOperator{\be}{b}
 \DeclareMathOperator{\spand}{span}
 \DeclareMathOperator{\medi}{med}
+\DeclareMathOperator{\modu}{mod}
 \let\oldemptyset\emptyset
 \let\emptyset\varnothing
 \DeclarePairedDelimiterX{\inp}[2]{\langle}{\rangle}{#1, #2}
@@ -65,10 +67,34 @@
 
 \section{Resultados}
 
-    \begin{theorem}
-    
-    \end{theorem}
-    
-    
+  \begin{theorem}\label{cods1}
+    Seja $r>0$ um número natural de modo que $r \equiv 0\;(\modu\;2)$. Temos que o reticulado $\Lambda'$, com base $\beta' = \{(0,2(r+1)),(r+1,r+1)\}$ é um $r$-código linear perfeito em $D_2$ na métrica $\ell_1$.
+  \end{theorem}
 
+  \begin{example}
+    Tomemos $r=2$. Pelo Teorema \ref{cods1}, temos que o reticulado $\Lambda_1$, com base $\beta_1=\{(0,6),(3,3)\}$ é um $2$-código linear perfeito em $D_2$ na métrica $\ell_1$.
+    \begin{figure}[h!]
+			\centering
+        	\includegraphics[scale=0.2]{exampler2l1.pdf}
+          \caption{Reticulado $\Lambda_1$ em $D_2$ na métrica $\ell_1$.}
+		\end{figure}
+  \end{example}
+
+  \begin{observation} 
+    O reticulado $\Lambda_1$ também é um $r$-código linear perfeito em $D_2$ na métrica $\ell_2$.
+    \begin{figure}[h!]
+			\centering
+        	\includegraphics[scale=0.2]{exampler2l2.pdf}
+          \caption{Reticulado $\Lambda_1$ em $D_2$ na métrica $\ell_2$.}
+		\end{figure}
+  \end{observation}
+
+  \begin{example}
+    Tomemos agora $r=4$. Pelo Teorema \ref{cods1}, temos que o reticulado $\Lambda_2$, com base $\beta_2=\{(0,10),(5,5)\}$ é um $2$-código linear perfeito em $D_2$ na métrica $\ell_1$.
+    \begin{figure}[!ht]
+			\centering
+        	\includegraphics[scale=0.2]{exampler4l1.pdf}
+          \caption{Reticulado $\Lambda_1$ em $D_2$ na métrica $\ell_1$.}
+		\end{figure}
+  \end{example}
 \end{document}
