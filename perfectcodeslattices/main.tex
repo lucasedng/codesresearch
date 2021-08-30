@@ -75,30 +75,63 @@
     Tomemos $r=2$. Pelo Teorema \ref{cods1}, temos que o reticulado $\Lambda_1$, com base $\beta_1=\{(0,6),(3,3)\}$ é um $2$-código linear perfeito em $D_2$ na métrica $\ell_1$.
     \begin{figure}[h!]
 			\centering
-        	\includegraphics[scale=0.2]{exampler2l1.pdf}
+        	\includegraphics[scale=0.2]{exampler2l1.pdf} \label{fig1}
           \caption{Reticulado $\Lambda_1$ em $D_2$ na métrica $\ell_1$.}
 		\end{figure}
   \end{example}
 
   \begin{observation} 
-    O reticulado $\Lambda_1$ também é um $r$-código linear perfeito em $D_2$ na métrica $\ell_2$.
-    \begin{figure}[h!]
+      O reticulado $\Lambda_1$ também é um $r$-código linear perfeito em $D_2$ na métrica $\ell_2$. 
+  \end{observation}  
+
+    \begin{figure}[h!]\label{fig2}
 			\centering
-        	\includegraphics[scale=0.2]{exampler2l2.pdf}
+        	\includegraphics[scale=0.2]{exampler2l2.pdf} 
           \caption{Reticulado $\Lambda_1$ em $D_2$ na métrica $\ell_2$.}
 		\end{figure}
-  \end{observation}
 
   \begin{example}
-    Tomemos agora $r=4$. Pelo Teorema \ref{cods1}, temos que o reticulado $\Lambda_2$, com base $\beta_2=\{(0,10),(5,5)\}$ é um $4$-código linear perfeito em $D_2$ na métrica $\ell_1$. Além disso, temos que $\Lambda_2$ também é um $4$-código linear perfeito em $D_2$ na métrica $\ell_2$.
+    Tomemos agora $r=4$. Pelo Teorema , temos que o reticulado $\Lambda_2$, com base $\beta_2=\{(0,10),(5,5)\}$ é um $4$-código linear perfeito em $D_2$ na métrica $\ell_1$, como pode ser visto na Figura. Além disso, temos que $\Lambda_2$ também é um $4$-código linear perfeito em $D_2$ na métrica $\ell_2$. 
     \begin{figure}[!ht]
 			\centering
         	\includegraphics[scale=0.2]{exampler4l1.pdf}\;\;\;\;\;\includegraphics[scale=0.2]{exampler4l2.pdf}
-          \caption{Reticulado $\Lambda_1$ em $D_2$ nas métrica $\ell_1$ e $\ell_2$ respectivamente.}
+          \caption{Reticulado $\Lambda_1$ em $D_2$ nas métricas $\ell_1$ e $\ell_2$ respectivamente.}
 		\end{figure}
   \end{example}
 
   \begin{observation}
     Notemos que, o reticulado simétrico de $\Lambda'$, obtido pela transformação linear $T: \mathbb{R}^2 \to \mathbb{R}^2$ dada por $T(x,y) = (y,x)$, é igual a $\Lambda'$. Isto é, $T(\Lambda') = \Lambda'$. Isso se da pelo fato de que $\beta''=\{(2(r+1),0),(r+1,r+1)\}$ é uma base para $T(\Lambda')$. Como $(2(r+1),0) = 2(r+1,r+1)-(0,2(r+1))$, isto é, pode ser escrito como combinação linear inteira dos elementos de $\beta'$, temos que os dois reticulados coincidem, já que $(r+1,r+1)$ pertence as duas bases. 
   \end{observation}
-\end{document}
+
+  Em $D_2$, consideremos os reticulados $\Lambda_3$ e $\Lambda_4$ com bases $\beta_3 = \{(5,1),(2,4)\}$ e $\beta_4 = \{(9,1),(4,6)\}$. Note que as Figuras e nos mostram que $\Lambda_3$ e $\Lambda_4$ são um $2$-código linear perfeito e um $4$-código linear perfeito respectivamente em $D_2$, tanto na métrica $\ell_1$, quanto na métrica $\ell_2$.
+  
+  \begin{figure}[!ht]
+    \centering
+        \includegraphics[scale=0.2]{newcoder2l1.pdf}\;\;\;\;\includegraphics[scale=0.2]{newcoder2l2.pdf}
+        \caption{Reticulado $\Lambda_3$ em $D_2$ nas métricas $\ell_1$ e $\ell_2$ respectivamente.}
+  \end{figure}
+
+  \begin{figure}[!ht]
+    \centering
+        \includegraphics[scale=0.24]{newcoder4l1.pdf}\;\;\;\;\includegraphics[scale=0.2]{newcoder2l2.pdf}
+        \caption{Reticulado $\Lambda_4$ em $D_2$ nas métricas $\ell_1$ e $\ell_2$ respectivamente.}
+  \end{figure}
+
+  \begin{theorem}\label{cods2}
+    Seja $r>0$ um número natural de modo que $r \equiv 0\;(\modu\;2)$. Temos que o reticulado $\Lambda''$, com base $\beta'' = \{(2r+1,1),(r,r+2)\}$ é um $r$-código linear perfeito em $D_2$ na métrica $\ell_1$.
+  \end{theorem}
+
+  \begin{example}
+    Tomemos $r=6$. Pelo Teorema \ref{cods2}, temos que o reticulado $\Lambda_5$, com base $\beta_1=\{(13,1),(6,8)\}$ é um $6$-código linear perfeito em $D_2$ na métrica $\ell_1$.
+    \begin{figure}[ht]
+			\centering
+        	\includegraphics[scale=0.2]{code2r6l1.pdf}\;\;\;\;\includegraphics[scale=0.2]{code2r6l2.pdf}
+          \caption{Reticulado $\Lambda_5$ em $D_2$ nas métricas $\ell_1$ e $\ell_2$ respectivamente.}
+		\end{figure}
+  \end{example}
+
+  \begin{observation}
+    Ao contrário do que aconteceu com $r=2$ e $r=4$, temos que $\Lambda_5$ não é um $6$-código linear perfeito em $D_2$. Uma vez que ao centrarmos bolas nos pontos de $\Lambda_2$, podemos ver que suas intersecções não são vazias em $D_2$, como segue na Figura 6.
+  \end{observation}
+
+  \end{document}
