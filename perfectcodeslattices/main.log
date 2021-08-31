@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.30)  30 AUG 2021 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.30)  30 AUG 2021 21:50
 entering extended mode
 **c:/Users/gonca/Dropbox/IC-Lucas-2018/codesresearch/perfectcodeslattices/main.tex
 (c:/Users/gonca/Dropbox/IC-Lucas-2018/codesresearch/perfectcodeslattices/main.tex
@@ -988,60 +988,58 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: exampler2l1.pdf Graphic file (type pdf)
 <use exampler2l1.pdf>
 Package pdftex.def Info: exampler2l1.pdf  used on input line 78.
-(pdftex.def)             Requested size: 115.62994pt x 115.4292pt.
+(pdftex.def)             Requested size: 132.974pt x 132.74313pt.
 <exampler2l2.pdf, id=36, 578.16pt x 577.15625pt>
 File: exampler2l2.pdf Graphic file (type pdf)
 <use exampler2l2.pdf>
 Package pdftex.def Info: exampler2l2.pdf  used on input line 89.
-(pdftex.def)             Requested size: 115.62994pt x 115.4292pt.
+(pdftex.def)             Requested size: 132.974pt x 132.74313pt.
 <exampler4l1.pdf, id=37, 578.16pt x 577.15625pt>
 File: exampler4l1.pdf Graphic file (type pdf)
 <use exampler4l1.pdf>
 Package pdftex.def Info: exampler4l1.pdf  used on input line 97.
-(pdftex.def)             Requested size: 115.62994pt x 115.4292pt.
+(pdftex.def)             Requested size: 132.974pt x 132.74313pt.
 <exampler4l2.pdf, id=38, 578.16pt x 577.15625pt>
 File: exampler4l2.pdf Graphic file (type pdf)
 <use exampler4l2.pdf>
 Package pdftex.def Info: exampler4l2.pdf  used on input line 97.
-(pdftex.def)             Requested size: 115.62994pt x 115.4292pt.
-<newcoder2l1.pdf, id=39, 693.59125pt x 691.58376pt>
-File: newcoder2l1.pdf Graphic file (type pdf)
-<use newcoder2l1.pdf>
-Package pdftex.def Info: newcoder2l1.pdf  used on input line 110.
-(pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
-<newcoder2l2.pdf, id=40, 693.59125pt x 691.58376pt>
-File: newcoder2l2.pdf Graphic file (type pdf)
-<use newcoder2l2.pdf>
-Package pdftex.def Info: newcoder2l2.pdf  used on input line 110.
-(pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
+(pdftex.def)             Requested size: 132.974pt x 132.74313pt.
  [1
 
 {C:/Users/gonca/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./exampler2l1.pdf> <./exampler2l2.pdf
 
 pdfTeX warning: pdflatex (file ./exampler2l2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<newcoder4l1.pdf, id=91, 578.16pt x 577.15625pt>
+<newcoder2l1.pdf, id=88, 693.59125pt x 691.58376pt>
+File: newcoder2l1.pdf Graphic file (type pdf)
+<use newcoder2l1.pdf>
+Package pdftex.def Info: newcoder2l1.pdf  used on input line 108.
+(pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
+<newcoder2l2.pdf, id=89, 693.59125pt x 691.58376pt>
+File: newcoder2l2.pdf Graphic file (type pdf)
+<use newcoder2l2.pdf>
+Package pdftex.def Info: newcoder2l2.pdf  used on input line 108.
+(pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
+<newcoder4l1.pdf, id=90, 578.16pt x 577.15625pt>
 File: newcoder4l1.pdf Graphic file (type pdf)
 <use newcoder4l1.pdf>
-Package pdftex.def Info: newcoder4l1.pdf  used on input line 116.
+Package pdftex.def Info: newcoder4l1.pdf  used on input line 114.
 (pdftex.def)             Requested size: 138.76123pt x 138.52032pt.
 File: newcoder2l2.pdf Graphic file (type pdf)
 <use newcoder2l2.pdf>
-Package pdftex.def Info: newcoder2l2.pdf  used on input line 116.
+Package pdftex.def Info: newcoder2l2.pdf  used on input line 114.
 (pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
-<code2r6l1.pdf, id=93, 693.59125pt x 691.58376pt>
+<code2r6l1.pdf, id=92, 693.59125pt x 691.58376pt>
 File: code2r6l1.pdf Graphic file (type pdf)
 <use code2r6l1.pdf>
-Package pdftex.def Info: code2r6l1.pdf  used on input line 128.
+Package pdftex.def Info: code2r6l1.pdf  used on input line 126.
 (pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
-<code2r6l2.pdf, id=94, 693.59125pt x 691.58376pt>
+<code2r6l2.pdf, id=93, 693.59125pt x 691.58376pt>
 File: code2r6l2.pdf Graphic file (type pdf)
 <use code2r6l2.pdf>
-Package pdftex.def Info: code2r6l2.pdf  used on input line 128.
+Package pdftex.def Info: code2r6l2.pdf  used on input line 126.
 (pdftex.def)             Requested size: 138.71579pt x 138.3143pt.
- 
-AED: lastpage setting LastPage
-[2 <./exampler4l1.pdf> <./exampler4l2.pdf
+ [2 <./exampler4l1.pdf> <./exampler4l2.pdf
 
 pdfTeX warning: pdflatex (file ./exampler4l2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./newcoder2l1.pdf
@@ -1053,25 +1051,44 @@ pdfTeX warning: pdflatex (file ./newcoder2l2.pdf): PDF inclusion: multiple pdfs 
 > <./newcoder4l1.pdf
 
 pdfTeX warning: pdflatex (file ./newcoder4l1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [3 <./code2r6l1.pdf> <./code2r6l2.pdf
+>]
+<simr2l2.pdf, id=170, 693.59125pt x 691.58376pt>
+File: simr2l2.pdf Graphic file (type pdf)
+<use simr2l2.pdf>
+Package pdftex.def Info: simr2l2.pdf  used on input line 140.
+(pdftex.def)             Requested size: 159.52263pt x 159.06091pt.
+<notperfect.pdf, id=173, 693.59125pt x 691.58376pt>
+File: notperfect.pdf Graphic file (type pdf)
+<use notperfect.pdf>
+Package pdftex.def Info: notperfect.pdf  used on input line 148.
+(pdftex.def)             Requested size: 159.52263pt x 159.06091pt.
+ [3 <./code2r6l1.pdf> <./code2r6l2.pdf
 
 pdfTeX warning: pdflatex (file ./code2r6l2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] (main.aux)
+> <./simr2l2.pdf
+
+pdfTeX warning: pdflatex (file ./simr2l2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./notperfect.pdf
+
+pdfTeX warning: pdflatex (file ./notperfect.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] 
+AED: lastpage setting LastPage
+[4] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3E846AB0FCB3282AA41F0877E980E725;93.
  ) 
 Here is how much of TeX's memory you used:
- 29589 strings out of 478868
- 581216 string characters out of 2858666
- 917930 words of memory out of 3000000
- 46786 multiletter control sequences out of 15000+600000
+ 29606 strings out of 478868
+ 581518 string characters out of 2858666
+ 916930 words of memory out of 3000000
+ 46799 multiletter control sequences out of 15000+600000
  411332 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,8n,111p,630b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (3 pages, 473810 bytes).
+ 102i,8n,111p,779b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (4 pages, 560083 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 295 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 

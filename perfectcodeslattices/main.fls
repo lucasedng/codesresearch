@@ -1396,6 +1396,7 @@ INPUT exampler4l2.pdf
 INPUT .\exampler4l2.pdf
 INPUT .\exampler4l2.pdf
 INPUT .\exampler4l2.pdf
+INPUT C:\Users\gonca\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT .\newcoder2l1.pdf
 INPUT .\newcoder2l1.pdf
 INPUT newcoder2l1.pdf
@@ -1408,7 +1409,6 @@ INPUT newcoder2l2.pdf
 INPUT .\newcoder2l2.pdf
 INPUT .\newcoder2l2.pdf
 INPUT .\newcoder2l2.pdf
-INPUT C:\Users\gonca\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT .\newcoder4l1.pdf
 INPUT .\newcoder4l1.pdf
 INPUT newcoder4l1.pdf
@@ -1431,6 +1431,18 @@ INPUT code2r6l2.pdf
 INPUT .\code2r6l2.pdf
 INPUT .\code2r6l2.pdf
 INPUT .\code2r6l2.pdf
+INPUT .\simr2l2.pdf
+INPUT .\simr2l2.pdf
+INPUT simr2l2.pdf
+INPUT .\simr2l2.pdf
+INPUT .\simr2l2.pdf
+INPUT .\simr2l2.pdf
+INPUT .\notperfect.pdf
+INPUT .\notperfect.pdf
+INPUT notperfect.pdf
+INPUT .\notperfect.pdf
+INPUT .\notperfect.pdf
+INPUT .\notperfect.pdf
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
@@ -1440,6 +1452,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
