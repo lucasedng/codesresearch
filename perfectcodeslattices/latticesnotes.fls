@@ -1,7 +1,7 @@
 PWD c:\Users\gonca\Dropbox\IC-Lucas-2018\codesresearch\perfectcodeslattices
 INPUT C:\Users\gonca\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\gonca\Dropbox\IC-Lucas-2018\codesresearch\perfectcodeslattices\main.tex
-OUTPUT main.log
+INPUT c:\Users\gonca\Dropbox\IC-Lucas-2018\codesresearch\perfectcodeslattices\latticesnotes.tex
+OUTPUT latticesnotes.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -1024,7 +1024,7 @@ INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzl
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-OUTPUT main.pdf
+OUTPUT latticesnotes.pdf
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.misc.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.misc.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.misc.code.tex
@@ -1260,10 +1260,10 @@ INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\latex\tkz-euclide\tkz-obj-eu-pro
 INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\latex\tkz-euclide\tkz-obj-eu-sectors.tex
 INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\latex\tkz-euclide\tkz-obj-eu-show.tex
 INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\latex\tkz-euclide\tkz-obj-eu-triangles.tex
-INPUT .\main.aux
-INPUT main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT .\latticesnotes.aux
+INPUT latticesnotes.aux
+INPUT latticesnotes.aux
+OUTPUT latticesnotes.aux
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -1322,17 +1322,17 @@ INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitles
 INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\gonca\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT .\main.out
-INPUT main.out
-INPUT .\main.out
-INPUT main.out
-INPUT .\main.out
-INPUT main.out
-INPUT .\main.out
-INPUT main.out
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
+INPUT .\latticesnotes.out
+INPUT latticesnotes.out
+INPUT .\latticesnotes.out
+INPUT latticesnotes.out
+INPUT .\latticesnotes.out
+INPUT latticesnotes.out
+INPUT .\latticesnotes.out
+INPUT latticesnotes.out
+INPUT .\latticesnotes.out
+INPUT .\latticesnotes.out
+OUTPUT latticesnotes.out
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
@@ -1443,9 +1443,9 @@ INPUT notperfect.pdf
 INPUT .\notperfect.pdf
 INPUT .\notperfect.pdf
 INPUT .\notperfect.pdf
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT latticesnotes.aux
+INPUT .\latticesnotes.out
+INPUT .\latticesnotes.out
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
